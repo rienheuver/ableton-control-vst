@@ -1,0 +1,16 @@
+{
+  "displayName": "Ableton Everything",
+  "company": "Mad Mallets",
+  "bundleId": "com.madmallets.ableton",
+  "version": "1.0.0",
+  "manufacturerCode": "MaMa",
+  "pluginCode": "AbEv",
+  "numInputChannels": 0,
+  "numOutputChannels": 0,
+  "window": {
+    "width": 753,
+    "height": 373,
+    "showToolbar": false
+  },
+  "parameters": []
+}

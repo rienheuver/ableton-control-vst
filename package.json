@@ -1,0 +1,17 @@
+{
+  "name": "osc-test",
+  "source": "src/index.html",
+  "scripts": {
+    "start": "parcel -p 3000 --https",
+    "build": "parcel build",
+    "start-bridge": "node bridge/bridge.js"
+  },
+  "dependencies": {
+    "@elemaudio/plugin-renderer": "^1.0.18",
+    "open-props": "^1.5.3",
+    "osc-js": "^2.4.0"
+  },
+  "devDependencies": {
+    "parcel": "^2.8.2"
+  }
+}

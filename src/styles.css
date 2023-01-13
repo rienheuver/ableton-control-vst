@@ -1,0 +1,16 @@
+/* the props */
+@import "npm:open-props/open-props.min.css";
+
+@import "npm:open-props/normalize.min.css";
+@import "npm:open-props/buttons.min.css";
+
+.tracks {
+  display: grid;
+  gap: var(--size-5);
+}
+
+.track {
+  display: flex;
+  flex-direction: column;
+  gap: var(--size-2);
+}
